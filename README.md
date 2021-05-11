@@ -52,7 +52,7 @@ ready state의 프로세스 중에서 어떤 프로세스를 running state로 �
 #### HRRN (High-Response-Ratio Next)
 - SJF + Aging(Non-preemptive)  
 - Dynamic Priority가 높은 프로세스 우선 할당
- > **`= (WT+BT)/BT`**  
+ > **`DP = (WT+BT)/BT`**  
  > ![image](https://user-images.githubusercontent.com/65759076/117803687-e06a5880-b291-11eb-8eb0-aa7a7935cf3d.png)  
   
   
