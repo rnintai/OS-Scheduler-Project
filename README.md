@@ -84,8 +84,10 @@ ready state의 프로세스 중에서 어떤 프로세스를 running state로 �
   
 ### Real Time 스케줄링 알고리즘
 
-####
-####
+#### RM(Rate Monotonic) Scheduling : 정적 우선순위 스케줄링
+
+
+#### EDF(Earliest Deadline First) Scheduling : 동적 우선순위 스케줄링
 
 
 ### 어떤 알고리즘을 사용해야 하나? 
@@ -99,3 +101,5 @@ https://manducku.tistory.com/14
 범용 스케줄링 - https://velog.io/@mu1616/CPU-%EC%8A%A4%EC%BC%80%EC%A4%84%EB%A7%81  
 https://kim-hoya.tistory.com/11
 https://sanghyunj.tistory.com/18
+
+실시간 스케줄링 - https://inuplace.tistory.com/321
